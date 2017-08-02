@@ -1,0 +1,51 @@
+html {
+    background: url(https://static.pexels.com/photos/376368/pexels-photo-376368.jpeg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+h1 {
+    text-align: center;
+    color: #008CBA;
+}
+button {
+    border-radius: 5px;
+    text-decoration: none;
+    background-color: white;
+    color: #008CBA;
+    border: 2px solid #008CBA;
+    font-size: 10px;
+}
+button:hover {
+    background-color: #008CBA;
+    color: white;
+}
+.column {
+    display: inline-block;
+    float: left;
+    width: 20%;
+}
+.add-card {
+    font-size: 15px;
+}
+.card {
+    list-style-type: none;
+}
+.column-title {
+    color: #008CBA;
+}
+.btn-delete {
+    font-size: 7px;
+}
+.column-container {
+    color: white;
+}
+.create-column {
+    width: 120px;
+    height: 60px;
+    font-size: 13px;
+}
+.column-container {
+    text-align: center;
+}

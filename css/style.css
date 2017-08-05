@@ -49,3 +49,7 @@ button:hover {
 .column-container {
     text-align: center;
 }
+ul {
+    list-style-type: none;
+    min-height: 200px;
+}
